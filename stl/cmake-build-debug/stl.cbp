@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="stl"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shilinkun/Desktop/stl/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shilinkun/Desktop/stl/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shilinkun/Desktop/stl/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stl">
+				<Option output="/home/shilinkun/Desktop/stl/cmake-build-debug/stl" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shilinkun/Desktop/stl/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 stl"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stl/fast">
+				<Option output="/home/shilinkun/Desktop/stl/cmake-build-debug/stl" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shilinkun/Desktop/stl/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 stl/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/shilinkun/Desktop/stl/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/algobase.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/algorithm.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/allocator.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/construct.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/deque.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/heap_algo.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/iterator.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/list.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/memory.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/queue.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/stack.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/type_traits.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/uninitialized.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/utils.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/header_files/vector.h">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/main.cpp">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/home/shilinkun/Desktop/stl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
